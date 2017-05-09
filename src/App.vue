@@ -7,7 +7,8 @@
 
 <script>
 import Hello from './components/Hello'
-
+import Logo from './assets/logo.svg'
+console.log(Logo)
 export default {
   name: 'app',
   components: {

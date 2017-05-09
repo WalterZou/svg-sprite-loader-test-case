@@ -1,1 +1,0 @@
-# svg-sprite-loader-test-case

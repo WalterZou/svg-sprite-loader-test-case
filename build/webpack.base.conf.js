@@ -57,7 +57,7 @@ module.exports = {
         test: /\.svg$/,
         loader: 'svg-sprite-loader',
         options: {
-          // extract: true,
+          extract: true,
           spriteFilename: 'icons-[chunkname]-sprite.svg'
         }
       } 
